@@ -19,6 +19,7 @@
     "url": "https://github.com/terinjokes/flarectl/issues"
   },
   "homepage": "https://github.com/terinjokes/flarectl#readme",
+  "preferGlobal": true,
   "dependencies": {
     "chalk": "^1.1.3",
     "cli-table2": "^0.2.0",
