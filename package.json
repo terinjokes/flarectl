@@ -26,10 +26,10 @@
     "cloudflare": "^1.0.3",
     "dashdash": "^1.13.1",
     "helmsman": "^1.0.3",
-    "ora": "^0.2.3"
+    "ora": "^1.1.0"
   },
   "devDependencies": {
-    "xo": "^0.15.1"
+    "xo": "^0.17.1"
   },
   "xo": {
     "space": true
