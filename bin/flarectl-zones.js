@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 var dashdash = require('dashdash');
-var Table = require('cli-table2');
+var Table = require('cli-table3');
 var chalk = require('chalk');
 var ora = require('ora');
 var CF = require('cloudflare');
